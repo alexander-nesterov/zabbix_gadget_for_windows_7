@@ -1,1 +1,1 @@
-# Zabbix gadget for windows 7
+# Zabbix gadget for Windows 7
