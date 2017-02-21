@@ -1,0 +1,50 @@
+body
+{
+margin: 0;
+width: 300px;
+height: 500px;
+font-family: verdana;
+font-weight: bold;
+font-size: 15px;
+}
+
+#TimeRefresh
+{
+margin-top: 20px;
+width: 300px;
+vertical-align: middle;
+text-align: center;
+overflow: hidden;
+color: rgb(0, 102, 255);
+}
+
+#AverageWaitTime
+{
+margin-top: 20px;
+width: 300px;
+vertical-align: middle;
+text-align: center;
+overflow: hidden;
+color: rgb(0, 102, 255);
+}
+
+#LockTimeouts
+{
+margin-top: 20px;
+width: 300px;
+vertical-align: middle;
+text-align: center;
+overflow: hidden;
+color: rgb(0, 102, 255);
+}
+
+#ZabbixID
+{
+font-size: 10px;
+margin-top: 20px;
+width: 300px;
+vertical-align: middle;
+text-align: center;
+overflow: hidden;
+color: rgb(49, 151, 116);
+}

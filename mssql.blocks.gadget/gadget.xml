@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+  <name>MSSQL Stat</name>
+  <version>1.0.0.0</version>
+  <author name="Alexander Nesterov">
+    <info url="https://github.com/alexander-nesterov" />
+  </author>
+  <copyright>&#169; Noringa</copyright>
+  <description>Показывает статистику MSSQL сервера</description>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="main.html" />
+      <permissions>Full</permissions>
+      <platform minPlatformVersion="1.0" />
+    </host>
+  </hosts>
+  <icons>
+    <icon width="64" height="64" src="images/logo.png" />
+  </icons>
+</gadget>
