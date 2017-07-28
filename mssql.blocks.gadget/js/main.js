@@ -5,7 +5,7 @@ var HOSTID = '10393';
 var ITEMID_AVERAGE = '30151'; //SQL: Average Wait Time (ms)
 var ITEMID_LOCK = '30165'; //SQL: Lock Timeouts/sec
 
-var zabbix_url = 'http://zabbix.nsk.cwc.ru/api_jsonrpc.php';
+var zabbix_url = 'http://zabbix/api_jsonrpc.php';
 var zabbix_user = 'Admin';
 var zabbix_password = 'zabbix';
 var zabbixID = '';
